@@ -1,0 +1,1 @@
+# Task-7.Adapter_OOP
